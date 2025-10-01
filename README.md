@@ -49,5 +49,5 @@ I believe coding is not just syntax—it's a journey from roots to realization.
 > “Har connection ek naya raasta hai—Mauriyachak se duniya tak.”
 
 - 🔗 [LinkedIn – Study Sujit](https://www.linkedin.com/in/study-sujit)
-- 🧠 [GitHub – Sujit Kumar419](https://github.com/sujit-kumar)
+- 🧠 [GitHub – Sujit Kumar](https://github.com/sujitkumar419)
 - 📧 Email – [sujitkumar03032007@gmail.com](mailto:sujitkumar03032007@gmail.com)
