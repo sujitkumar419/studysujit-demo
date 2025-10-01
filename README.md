@@ -43,8 +43,11 @@ I believe coding is not just syntax—it's a journey from roots to realization.
 
 ---
 
+
 ## 📬 Let's Connect
 
-- LinkedIn: [Your Profile Link]  
-- GitHub: [Your GitHub Link]  
-- Email: [Your Email]
+> “Har connection ek naya raasta hai—Mauriyachak se duniya tak.”
+
+- 🔗 [LinkedIn – Study Sujit](https://www.linkedin.com/in/study-sujit)
+- 🧠 [GitHub – Sujit Kumar](https://github.com/sujit-kumar)
+- 📧 Email – [sujitkumar03032007@gmail.com](mailto:sujitkumar03032007@gmail.com)
